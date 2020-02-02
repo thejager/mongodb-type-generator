@@ -1,0 +1,13 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Generating types object printing 1`] = `
+"type MyType = {
+    a: {
+        b: number;
+        c: number;
+    };
+    b: {
+        c: Date;
+    };
+};"
+`;
